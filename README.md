@@ -33,11 +33,11 @@ Le script génère deux types de sorties principales :
 1. **Résultats au format brut**
    La console affichera le nombre total d'heures par jour de la semaine et le nombre d'occurrences par plage horaire. Exemple de sortie :
 
-   ![Figure_3](https://github.com/user-attachments/assets/e7c7d0fc-1965-49a9-8eff-4bcfcebfe418)
-
+   ![Figure_3](https://github.com/user-attachments/assets/07cc8b37-6ef9-4f70-97e9-641832655fc7)
+   
 2. **Résultats graphiques**
    Le script produira également des graphiques pour visualiser les plages horaires et les jours de la semaine.
 
-    ![Figure_1](https://github.com/user-attachments/assets/4ba4a177-ee30-4523-a79b-4efb3ec905dc)
-    ![Figure_2](https://github.com/user-attachments/assets/594a7611-83f9-4aaf-a5b1-74ee470860a9)
+    ![Figure_1](https://github.com/user-attachments/assets/96f76b98-b895-49dc-87f8-ac701d0e9e9b)
+    ![Figure_2](https://github.com/user-attachments/assets/2df7fe1b-f9bb-4754-9305-fe539545e523)
 
